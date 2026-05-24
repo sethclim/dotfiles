@@ -1,11 +1,22 @@
 {
-  "Profiles": [
+  "Profiles" : [
     {
-      "Name": "Work",
-      "Guid": "0CFBA975-3EB3-401A-8FE3-C5DCECD71DD6",
-      "Dynamic Profile Parent Name": "Default",
-
-      "Background Color": { "Red": 0.05, "Green": 0.05, "Blue": 0.08 }
+      "Window Type" : 0,
+      "Guid" : "0CFBA975-3EB3-401A-8FE3-C5DCECD71DD6",
+      "Name" : "Work",
+      "Background Color" : {
+        "Red" : 0.050000000000000003,
+        "Green" : 0.050000000000000003,
+        "Blue" : 0.080000000000000002
+      },
+      "Dynamic Profile Parent Name" : "Default",
+      "Foreground Color" : {
+        "Red Component" : 0.83742135763168335,
+        "Color Space" : "P3",
+        "Blue Component" : 0.83742141723632812,
+        "Alpha Component" : 1,
+        "Green Component" : 0.83742135763168335
+      }
     }
   ]
 }
