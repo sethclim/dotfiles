@@ -9,15 +9,22 @@
         "Green Component" : 0.83742135763168335
       },
       "Window Type" : 0,
+      "Cursor Color" : {
+        "Red Component" : 0.73333333333333328,
+        "Color Space" : "P3",
+        "Blue Component" : 0.73333333333333328,
+        "Alpha Component" : 1,
+        "Green Component" : 0.73333333333333328
+      },
       "Columns" : 130,
+      "Name" : "Work",
       "Guid" : "0CFBA975-3EB3-401A-8FE3-C5DCECD71DD6",
+      "Dynamic Profile Parent Name" : "Default",
       "Background Color" : {
         "Red" : 0.050000000000000003,
         "Green" : 0.050000000000000003,
         "Blue" : 0.080000000000000002
-      },
-      "Dynamic Profile Parent Name" : "Default",
-      "Name" : "Work"
+      }
     }
   ]
 }
