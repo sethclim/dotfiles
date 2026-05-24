@@ -1,0 +1,11 @@
+{
+  "Profiles": [
+    {
+      "Name": "Work",
+      "Guid": "0CFBA975-3EB3-401A-8FE3-C5DCECD71DD6",
+      "Dynamic Profile Parent Name": "Default",
+
+      "Background Color": { "Red": 0.05, "Green": 0.05, "Blue": 0.08 }
+    }
+  ]
+}
